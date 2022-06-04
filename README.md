@@ -1,4 +1,4 @@
-### xy-vue-temp
+### yee-vue-temp
 Vue3 + Typescript + Vite + vuex + vue-router 项目模板
 
 ### Project setup
